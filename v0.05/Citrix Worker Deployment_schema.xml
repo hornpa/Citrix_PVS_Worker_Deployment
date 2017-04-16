@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Deployment_VM xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<Global>
+	
+		<SystemDisk_Name></SystemDisk_Name>
+		<SystemDisk_Size></SystemDisk_Size>
+		<CacheDisk_Name></CacheDisk_Name>
+		<CacheDisk_Size></CacheDisk_Size>
+		<NIC_Name_PVS_Legacy></NIC_Name_PVS_Legacy>
+		<NIC_Name_PVS></NIC_Name_PVS>
+		<NIC_Name_SRV></NIC_Name_SRV>
+		<NIC_GUID_Gen1_PVS></NIC_GUID_Gen1_PVS>
+		<NIC_GUID_Gen1_SRV></NIC_GUID_Gen1_SRV>
+		<NIC_GUID_Gen2_PVS></NIC_GUID_Gen2_PVS>
+		<NIC_GUID_Gen2_SRV></NIC_GUID_Gen2_SRV>
+		<Switch_Name_PVS></Switch_Name_PVS>
+		<Switch_Name_SRV></Switch_Name_SRV>
+		<Switch_VLAN_PVS></Switch_VLAN_PVS>
+		<Switch_VLAN_SRV></Switch_VLAN_SRV>
+		<SecureBoot></SecureBoot>
+		<DHCP_Server_SRV></DHCP_Server_SRV>
+		<DHCP_Scope_SRV></DHCP_Scope_SRV>
+		<DHCP_Server_PVS></DHCP_Server_PVS>
+		<DHCP_Scope_PVS></DHCP_Scope_PVS>
+		<PVS_Server></PVS_Server>
+		<PVS_Sitename></PVS_Sitename>
+		
+	</Global>
+
+	<VMs>
+	
+		<VM>
+			<VM_Host></VM_Host>
+			<VM_Name></VM_Name>
+			<VM_CPU></VM_CPU>
+			<VM_RAM></VM_RAM>
+			<VM_Path></VM_Path>
+			<MAC_PVS_Legacy></MAC_PVS_Legacy>
+			<MAC_PVS></MAC_PVS>
+			<MAC_SRV></MAC_SRV>
+			<IP_Adresse_PVS_Legacy></IP_Adresse_PVS_Legacy>
+			<IP_Adresse_PVS></IP_Adresse_PVS>
+			<IP_Adresse_SRV></IP_Adresse_SRV>
+			<PVS_Collection></PVS_Collection>
+			<ISO_Path></ISO_Path>
+		</VM>
+		
+		<VM>
+			<VM_Host></VM_Host>
+			<VM_Name></VM_Name>
+			<VM_CPU></VM_CPU>
+			<VM_RAM></VM_RAM>
+			<VM_Path></VM_Path>
+			<MAC_PVS_Legacy></MAC_PVS_Legacy>
+			<MAC_PVS></MAC_PVS>
+			<MAC_SRV></MAC_SRV>
+			<IP_Adresse_PVS_Legacy></IP_Adresse_PVS_Legacy>
+			<IP_Adresse_PVS></IP_Adresse_PVS>
+			<IP_Adresse_SRV></IP_Adresse_SRV>
+			<PVS_Collection></PVS_Collection>
+			<ISO_Path></ISO_Path>
+		</VM>
+		
+	</VMs>
+	
+</Deployment_VM>
